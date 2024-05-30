@@ -1,0 +1,19 @@
+
+
+#sentence 0
+0	They	they	PRON	PRP	nsubj	said	1	pp_all	pp3	None	None	None	None	None	None	None
+1	said	say	VERB	VBD	ROOT	said	1	verb	past_tense	None	None	None	None	None	communication_verb	None
+2	she	she	PRON	PRP	nsubj	liked	3	pp_all	pp3	None	None	None	None	None	None	None
+3	liked	like	VERB	VBD	ccomp	said	1	verb	past_tense	None	None	None	None	None	mental_verb	None
+4	hamburgers	hamburger	NOUN	NNS	dobj	liked	3	nn_all	nominalization	None	None	None	None	None	None	None
+5	.	.	PUNCT	.	punct	said	1	None	None	None	None	None	None	None	None	None
+
+#sentence 1
+6	They	they	PRON	PRP	nsubj	said	8	pp_all	pp3	None	None	None	None	None	None	None
+7	also	also	ADV	RB	advmod	said	8	None	None	None	None	None	None	None	None	None
+8	said	say	VERB	VBD	ROOT	said	8	verb	past_tense	None	None	None	None	None	communication_verb	None
+9	that	that	SCONJ	IN	mark	did	11	None	that_complement_clause	that_verb_clause	None	None	None	None	that_verb_clause_nonfactive	None
+10	he	he	PRON	PRP	nsubj	did	11	pp_all	pp3	None	None	None	None	None	None	None
+11	did	do	VERB	VBD	ccomp	said	8	verb	past_tense	pv_do	None	None	None	None	None	None
+12	n't	not	PART	RB	neg	did	11	None	None	None	None	contraction	None	None	None	None
+13	.	.	PUNCT	.	punct	said	8	None	None	None	None	None	None	None	None	None

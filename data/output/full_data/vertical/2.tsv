@@ -1,0 +1,165 @@
+
+
+#sentence 0
+0	Dear	dear	ADJ	JJ	amod	Parents	1	None	jj_attributive	None	None	None	None	None	None	None
+1	Parents	parent	NOUN	NNS	npadvmod	
+	3	nn_all	None	None	None	None	None	None	nn_animate	None
+2	,	,	PUNCT	,	punct	Parents	1	None	None	None	None	None	None	None	None	None
+3	
+	
+	SPACE	_SP	dep	give	6	None	None	None	None	None	None	None	None	None
+4	We	we	PRON	PRP	nsubj	give	6	pp_all	pp1	None	None	None	None	None	None	None
+5	will	will	AUX	MD	aux	give	6	None	None	None	None	None	None	None	None	None
+6	give	give	VERB	VB	ROOT	give	6	verb	non_past_tense	None	None	None	None	None	activity_verb	None
+7	some	some	DET	DT	det	code	10	None	None	None	None	None	None	None	None	None
+8	new	new	ADJ	JJ	amod	code	10	None	jj_attributive	None	None	None	None	None	None	None
+9	dress	dress	NOUN	NN	compound	code	10	nn_all	None	None	None	None	None	None	None	None
+10	code	code	NOUN	NN	dobj	give	6	nn_all	None	None	None	None	None	None	nn_abstract	None
+11	to	to	ADP	IN	dative	give	6	None	None	None	None	None	None	None	None	None
+12	your	your	PRON	PRP$	poss	children	13	pp_all	pp2	None	None	None	None	None	None	None
+13	children	child	NOUN	NNS	pobj	to	11	nn_all	None	None	None	None	None	None	nn_animate	None
+14	.	.	PUNCT	.	punct	give	6	None	None	None	None	None	None	None	None	None
+
+#sentence 1
+15	It	it	PRON	PRP	nsubj	wearing	18	pp_all	pp3_it	None	None	None	None	None	None	None
+16	is	be	AUX	VBZ	aux	wearing	18	None	None	None	None	None	None	None	None	None
+17	not	not	PART	RB	neg	wearing	18	None	None	None	None	None	None	None	None	None
+18	wearing	wear	VERB	VBG	ROOT	wearing	18	verb	None	None	None	None	None	None	activity_verb	None
+19	short	short	ADJ	JJ	amod	skirts	20	None	jj_attributive	None	None	None	None	None	None	None
+20	skirts	skirt	NOUN	NNS	dobj	wearing	18	nn_all	None	None	None	None	None	None	None	None
+21	because	because	SCONJ	IN	mark	discomforts	23	None	None	None	adverbial_subordinator_causitive	None	None	None	None	None
+22	it	it	PRON	PRP	nsubj	discomforts	23	pp_all	pp3_it	None	None	None	None	None	None	None
+23	discomforts	discomfort	VERB	VBZ	advcl	wearing	18	verb	non_past_tense	None	None	None	None	None	None	None
+24	when	when	SCONJ	WRB	advmod	live	27	None	None	None	None	None	None	None	None	None
+25	your	your	PRON	PRP$	poss	children	26	pp_all	pp2	None	None	None	None	None	None	None
+26	children	child	NOUN	NNS	nsubj	live	27	nn_all	None	None	None	None	None	None	nn_animate	None
+27	live	live	VERB	VBP	advcl	discomforts	23	verb	non_past_tense	None	None	None	None	None	existence_verb	None
+28	in	in	ADP	IN	prep	live	27	prep_phrase	None	None	None	None	None	None	None	None
+29	the	the	DET	DT	det	school	31	None	None	None	None	None	None	None	None	None
+30	high	high	ADJ	JJ	amod	school	31	None	jj_attributive	None	None	None	None	None	None	None
+31	school	school	NOUN	NN	pobj	in	28	nn_all	None	None	None	None	None	None	nn_group	None
+32	.	.	PUNCT	.	punct	wearing	18	None	None	None	None	None	None	None	None	None
+
+#sentence 2
+33	Second	second	ADJ	JJ	advmod	need	39	None	None	None	None	None	None	None	None	None
+34	,	,	PUNCT	,	punct	need	39	None	None	None	None	None	None	None	None	None
+35	your	your	PRON	PRP$	poss	children	36	pp_all	pp2	None	None	None	None	None	None	None
+36	children	child	NOUN	NNS	nsubj	need	39	nn_all	None	None	None	None	None	None	nn_animate	None
+37	do	do	AUX	VBP	aux	need	39	None	None	None	None	None	None	None	None	None
+38	n't	not	PART	RB	neg	need	39	None	None	None	None	contraction	None	None	None	None
+39	need	need	VERB	VB	ROOT	need	39	verb	non_past_tense	None	None	None	None	None	mental_verb	None
+40	sunglasses	sunglass	NOUN	NNS	dobj	need	39	nn_all	None	None	None	None	None	None	None	None
+41	in	in	ADP	IN	prep	need	39	prep_phrase	None	None	None	None	None	None	None	None
+42	the	the	DET	DT	det	class	43	None	None	None	None	None	None	None	None	None
+43	class	class	NOUN	NN	pobj	in	41	nn_all	None	None	None	None	None	None	nn_place	None
+44	.	.	PUNCT	.	punct	need	39	None	None	None	None	None	None	None	None	None
+
+#sentence 3
+45	As	as	SCONJ	IN	mark	see	50	None	None	None	adverbial_subordinator_other	None	None	None	None	None
+46	their	their	PRON	PRP$	poss	eyes	47	pp_all	pp3	None	None	None	None	None	None	None
+47	eyes	eye	NOUN	NNS	nsubj	see	50	nn_all	None	None	None	None	None	None	nn_concrete	None
+48	do	do	AUX	VBP	aux	see	50	None	None	None	None	None	None	None	None	None
+49	n't	not	PART	RB	neg	see	50	None	None	None	None	contraction	None	None	None	None
+50	see	see	VERB	VB	advcl	read	57	verb	non_past_tense	None	None	None	None	None	mental_verb	None
+51	for	for	ADP	IN	prep	see	50	prep_phrase	None	None	None	None	None	None	None	None
+52	teacher	teacher	NOUN	NN	pobj	for	51	nn_all	nominalization	None	None	None	None	None	nn_animate	None
+53	,	,	PUNCT	,	punct	read	57	None	None	None	None	None	None	None	None	None
+54	teacher	teacher	NOUN	NN	nsubj	read	57	nn_all	nominalization	None	None	None	None	None	nn_animate	None
+55	ca	can	AUX	MD	aux	read	57	None	None	None	None	None	None	None	None	None
+56	n't	not	PART	RB	neg	read	57	None	None	None	None	contraction	None	None	None	None
+57	read	read	VERB	VB	ROOT	read	57	verb	non_past_tense	None	None	None	None	None	mental_verb	None
+58	their	their	PRON	PRP$	poss	mind	59	pp_all	pp3	None	None	None	None	None	None	None
+59	mind	mind	NOUN	NN	dobj	read	57	nn_all	None	None	None	None	None	None	None	None
+60	.	.	PUNCT	.	punct	read	57	None	None	None	None	None	None	None	None	None
+
+#sentence 4
+61	These	these	DET	DT	det	codes	64	None	None	None	None	None	None	None	None	None
+62	new	new	ADJ	JJ	amod	codes	64	None	jj_attributive	None	None	None	None	None	None	None
+63	dress	dress	NOUN	NN	compound	codes	64	nn_all	None	None	None	None	None	None	None	None
+64	codes	code	NOUN	NNS	nsubj	get	66	nn_all	None	None	None	None	None	None	nn_abstract	None
+65	can	can	AUX	MD	aux	get	66	None	None	None	None	None	None	None	None	None
+66	get	get	VERB	VB	ROOT	get	66	verb	non_past_tense	None	None	None	None	None	activity_verb	None
+67	a	a	DET	DT	det	profit	68	None	None	None	None	None	None	None	None	None
+68	profit	profit	NOUN	NN	dobj	get	66	nn_all	None	None	None	None	None	None	nn_abstract	None
+69	that	that	SCONJ	IN	mark	do	72	None	that_complement_clause	that_noun_clause	None	None	None	None	None	None
+70	they	they	PRON	PRP	nsubj	do	72	pp_all	pp3	None	None	None	None	None	None	None
+71	can	can	AUX	MD	aux	do	72	None	None	None	None	None	None	None	None	None
+72	do	do	AUX	VB	acl	profit	68	None	None	None	None	None	None	None	None	None
+73	free	free	ADJ	JJ	amod	actions	74	None	jj_attributive	None	None	None	None	None	None	None
+74	actions	action	NOUN	NNS	dobj	do	72	nn_all	nominalization	None	None	None	None	None	nn_abstract	None
+75	when	when	SCONJ	WRB	advmod	want	77	None	None	None	None	None	None	None	None	None
+76	they	they	PRON	PRP	nsubj	want	77	pp_all	pp3	None	None	None	None	None	None	None
+77	want	want	VERB	VBP	advcl	do	72	verb	non_past_tense	None	None	None	None	None	mental_verb	None
+78	and	and	CCONJ	CC	cc	do	72	None	None	None	None	None	None	None	None	None
+79	get	get	VERB	VB	conj	do	72	verb	non_past_tense	None	None	None	None	None	activity_verb	None
+80	clear	clear	ADJ	JJ	amod	mind	81	None	jj_attributive	None	None	None	None	None	None	None
+81	mind	mind	NOUN	NN	dobj	get	79	nn_all	None	None	None	None	None	None	None	None
+82	so	so	SCONJ	IN	mark	reduce	86	None	None	None	adverbial_subordinator_other	None	None	None	None	None
+83	,	,	PUNCT	,	punct	reduce	86	None	None	None	None	None	None	None	None	None
+84	parents	parent	NOUN	NNS	nsubj	reduce	86	nn_all	None	None	None	None	None	None	nn_animate	None
+85	can	can	AUX	MD	aux	reduce	86	None	None	None	None	None	None	None	None	None
+86	reduce	reduce	VERB	VB	advcl	do	72	verb	non_past_tense	None	None	None	None	None	activity_verb	None
+87	about	about	ADP	IN	prep	reduce	86	prep_phrase	None	None	None	None	None	None	None	None
+88	their	their	PRON	PRP$	poss	children	89	pp_all	pp3	None	None	None	None	None	None	None
+89	children	child	NOUN	NNS	poss	life	91	nn_all	None	None	None	None	None	None	nn_animate	None
+90	's	's	PART	POS	case	children	89	None	None	None	None	None	None	None	None	None
+91	life	life	NOUN	NN	pobj	about	87	nn_all	None	None	None	None	None	None	nn_abstract	None
+92	.	.	PUNCT	.	punct	get	66	None	None	None	None	None	None	None	None	None
+
+#sentence 5
+93	Also	also	ADV	RB	advmod	choose	97	None	None	None	None	None	None	None	None	None
+94	,	,	PUNCT	,	punct	choose	97	None	None	None	None	None	None	None	None	None
+95	children	child	NOUN	NNS	nsubj	choose	97	nn_all	None	None	None	None	None	None	nn_animate	None
+96	can	can	AUX	MD	aux	choose	97	None	None	None	None	None	None	None	None	None
+97	choose	choose	VERB	VB	ROOT	choose	97	verb	non_past_tense	None	None	None	None	None	mental_verb	None
+98	about	about	ADP	IN	prep	choose	97	prep_phrase	None	None	None	None	None	None	None	None
+99	having	have	VERB	VBG	pcomp	about	98	verb	None	None	None	None	None	None	None	None
+100	cellular	cellular	ADJ	JJ	amod	phone	101	None	jj_attributive	None	None	None	None	None	None	None
+101	phone	phone	NOUN	NN	dobj	having	99	nn_all	None	None	None	None	None	None	nn_concrete	None
+102	in	in	ADP	IN	prep	having	99	prep_phrase	None	None	None	None	None	None	None	None
+103	the	the	DET	DT	det	school	105	None	None	None	None	None	None	None	None	None
+104	high	high	ADJ	JJ	amod	school	105	None	jj_attributive	None	None	None	None	None	None	None
+105	school	school	NOUN	NN	pobj	in	102	nn_all	None	None	None	None	None	None	nn_group	None
+106	because	because	SCONJ	IN	mark	give	109	None	None	None	adverbial_subordinator_causitive	None	None	None	None	None
+107	it	it	PRON	PRP	nsubj	give	109	pp_all	pp3_it	None	None	None	None	None	None	None
+108	can	can	AUX	MD	aux	give	109	None	None	None	None	None	None	None	None	None
+109	give	give	VERB	VB	advcl	choose	97	verb	non_past_tense	None	None	None	None	None	activity_verb	None
+110	convenience	convenience	NOUN	NN	dobj	give	109	nn_all	nominalization	None	None	None	None	None	None	None
+111	in	in	ADP	IN	prep	give	109	prep_phrase	None	None	None	None	None	None	None	None
+112	their	their	PRON	PRP$	poss	life	113	pp_all	pp3	None	None	None	None	None	None	None
+113	life	life	NOUN	NN	pobj	in	111	nn_all	None	None	None	None	None	None	nn_abstract	None
+114	.	.	PUNCT	.	punct	choose	97	None	None	None	None	None	None	None	None	None
+
+#sentence 6
+115	But	but	CCONJ	CC	cc	have	117	None	None	None	None	None	None	None	None	None
+116	their	their	PRON	PRP$	nsubj	have	117	pp_all	pp3	None	None	None	None	None	None	None
+117	have	have	VERB	VBP	ROOT	have	117	verb	non_past_tense	None	None	None	None	None	None	None
+118	to	to	PART	TO	aux	turn	119	None	None	None	None	None	None	None	None	None
+119	turn	turn	VERB	VB	xcomp	have	117	verb	non_past_tense	None	None	to_clause	to_clause_verb	None	None	None
+120	off	off	ADP	RP	prt	turn	119	None	None	None	None	None	None	None	None	None
+121	it	it	PRON	PRP	dobj	turn	119	pp_all	pp3_it	None	None	None	None	None	None	None
+122	in	in	ADP	IN	prep	turn	119	prep_phrase	None	None	None	None	None	None	None	None
+123	the	the	DET	DT	det	class	124	None	None	None	None	None	None	None	None	None
+124	class	class	NOUN	NN	pobj	in	122	nn_all	None	None	None	None	None	None	nn_place	None
+125	.	.	PUNCT	.	punct	have	117	None	None	None	None	None	None	None	None	None
+
+#sentence 7
+126	
+	
+	SPACE	_SP	dep	
+	126	None	None	None	None	None	None	None	None	None
+
+#sentence 8
+127	Thanks	thank	NOUN	NNS	ROOT	Thanks	127	nn_all	None	None	None	None	None	None	None	None
+128	,	,	PUNCT	,	punct	Thanks	127	None	None	None	None	None	None	None	None	None
+129	
+	
+	SPACE	_SP	dep	Thanks	127	None	None	None	None	None	None	None	None	None
+130	Sincerely	sincerely	ADV	RB	advmod	Thanks	127	None	None	None	None	None	None	None	None	None
+131	,	,	PUNCT	,	punct	Thanks	127	None	None	None	None	None	None	None	None	None
+132	
+	
+	SPACE	_SP	dep	Thanks	127	None	None	None	None	None	None	None	None	None
+133	Eun	eun	PROPN	NNP	compound	Wang	135	nn_all	None	None	None	None	None	None	None	None
+134	Ju	ju	PROPN	NNP	compound	Wang	135	nn_all	None	None	None	None	None	None	None	None
+135	Wang	wang	PROPN	NNP	appos	Thanks	127	nn_all	None	None	None	None	None	None	None	None
