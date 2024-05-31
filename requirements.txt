@@ -1,0 +1,2 @@
+spacy
+lexical_diversity
