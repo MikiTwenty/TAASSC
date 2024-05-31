@@ -26,7 +26,6 @@ import re
 import sys
 import glob
 import logging
-from random import sample
 from xml.dom import minidom
 import xml.etree.ElementTree as ET
 from typing import List, Any, Union, Dict
@@ -61,9 +60,17 @@ try:
     logger.info(f"Third-party packages imported.")
     logger.info(f"spaCy v: {spacy.__version__}")
 except Exception as e:
-    logger.critical(f"Failed to import third-party packages: {e}")
-    raise
-
+    try:
+        logger.info(f"Installing third-party packages.")
+        os.system('python -m pip install --upgrade pip setuptools spacy')
+        import spacy
+        from typeguard import typechecked
+        from lexical_diversity import lex_div as ld
+        logger.info(f"Third-party packages installed and imported.")
+        logger.info(f"spaCy v: {spacy.__version__}")
+    except Exception as e:
+        logger.critical(f"Failed to import third-party packages: {e}")
+        raise
 
 
 # Load spaCy model
