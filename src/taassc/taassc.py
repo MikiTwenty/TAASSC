@@ -62,7 +62,7 @@ try:
 except Exception as e:
     try:
         logger.info(f"Installing third-party packages.")
-        os.system('python -m pip install --upgrade pip setuptools spacy')
+        os.system('python3 -m pip install --upgrade pip setuptools spacy lexical-diversity')
         import spacy
         from typeguard import typechecked
         from lexical_diversity import lex_div as ld
@@ -82,7 +82,7 @@ try:
 except:
     logger.info(f"Downloading spaCy model 'en_core_web_trf'...")
     try:
-        os.system("python -m spacy download en_core_web_trf")
+        os.system("python3 -m spacy download en_core_web_trf")
         logger.info(f"Loading spaCy model 'en_core_web_trf'...")
         nlp = spacy.load("en_core_web_trf")
         nlp.max_length = 1728483
