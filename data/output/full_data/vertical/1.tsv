@@ -1,6 +1,6 @@
 
 
-#sentence 0
+[Sentence 0]
 0	I	i	PRON	PRP	nsubj	like	1	pp_all	pp1	None	None	None	None	None	None	None
 1	like	like	VERB	VBP	ROOT	like	1	verb	non_past_tense	None	None	None	None	None	mental_verb	None
 2	to	to	PART	TO	aux	dressed	4	None	None	None	None	None	None	None	None	None
@@ -10,7 +10,7 @@
 6	too	too	ADV	RB	advmod	dressed	4	None	None	None	None	None	None	None	None	None
 7	.	.	PUNCT	.	punct	like	1	None	None	None	None	None	None	None	None	None
 
-#sentence 1
+[Sentence 1]
 8	But	but	CCONJ	CC	cc	is	10	None	None	None	None	None	None	None	None	None
 9	it	it	PRON	PRP	nsubj	is	10	pp_all	pp3_it	None	None	None	None	None	None	None
 10	is	be	AUX	VBZ	ROOT	is	10	None	None	be_mv	None	None	None	None	None	None
@@ -19,7 +19,7 @@
 13	formal	formal	ADJ	JJ	acomp	is	10	None	jj_predicative	None	None	None	None	None	None	None
 14	.	.	PUNCT	.	punct	is	10	None	None	None	None	None	None	None	None	None
 
-#sentence 2
+[Sentence 2]
 15	I	i	PRON	PRP	nsubj	mean	16	pp_all	pp1	None	None	None	None	None	None	None
 16	mean	mean	VERB	VBP	parataxis	make	21	verb	non_past_tense	None	None	None	None	None	mental_verb	None
 17	I	i	PRON	PRP	nsubj	make	21	pp_all	pp1	None	None	None	None	None	None	None
@@ -30,7 +30,7 @@
 22	up	up	ADP	RP	prt	make	21	None	None	None	None	None	None	None	None	None
 23	.	.	PUNCT	.	punct	make	21	None	None	None	None	None	None	None	None	None
 
-#sentence 3
+[Sentence 3]
 24	some	some	DET	DT	det	time	25	None	None	None	None	None	None	None	None	None
 25	time	time	NOUN	NN	npadvmod	use	26	nn_all	None	None	None	None	None	None	nn_quantity	None
 26	use	use	VERB	VB	ROOT	use	26	verb	non_past_tense	None	None	None	None	None	activity_verb	None
@@ -41,13 +41,13 @@
 31	it	it	PRON	PRP	attr	's	30	pp_all	pp3_it	None	None	None	None	None	None	None
 32	.	.	PUNCT	.	punct	's	30	None	None	None	None	None	None	None	None	None
 
-#sentence 4
+[Sentence 4]
 33	That	that	PRON	DT	nsubj	's	34	None	pp_demonstrative	None	None	None	None	None	None	None
 34	's	be	AUX	VBZ	ROOT	's	34	None	None	be_mv	None	contraction	None	None	None	None
 35	all	all	PRON	DT	attr	's	34	None	None	None	None	None	None	None	None	None
 36	.	.	PUNCT	.	punct	's	34	None	None	None	None	None	None	None	None	None
 
-#sentence 5
+[Sentence 5]
 37	I	i	PRON	PRP	nsubj	am	38	pp_all	pp1	None	None	None	None	None	None	None
 38	am	be	AUX	VBP	ROOT	am	38	None	None	be_mv	None	None	None	None	None	None
 39	interested	interested	ADJ	JJ	acomp	am	38	None	jj_predicative	None	None	None	None	None	None	None
@@ -73,7 +73,7 @@
 59	lipstick	lipstick	NOUN	NN	pobj	except	57	nn_all	None	None	None	None	None	None	None	None
 60	.	.	PUNCT	.	punct	have	54	None	None	None	None	None	None	None	None	None
 
-#sentence 6
+[Sentence 6]
 61	people	people	NOUN	NNS	nsubj	have	63	nn_all	None	None	None	None	None	None	nn_animate	None
 62	usually	usually	ADV	RB	advmod	have	63	None	None	None	None	None	None	None	None	None
 63	have	have	VERB	VBP	ROOT	have	63	verb	non_past_tense	None	None	None	None	None	None	None
@@ -83,7 +83,7 @@
 67	house	house	NOUN	NN	pobj	in	66	nn_all	None	None	None	None	None	None	nn_group	None
 68	.	.	PUNCT	.	punct	have	63	None	None	None	None	None	None	None	None	None
 
-#sentence 7
+[Sentence 7]
 69	Even	even	ADV	RB	advmod	they	70	None	None	None	None	None	None	None	None	None
 70	they	they	PRON	PRP	nsubj	are	71	pp_all	pp3	None	None	None	None	None	None	None
 71	are	be	AUX	VBP	ROOT	are	71	None	None	be_mv	None	None	None	None	None	None
@@ -97,7 +97,7 @@
 79	up	up	ADP	RP	prt	make	78	None	None	None	None	None	None	None	None	None
 80	.	.	PUNCT	.	punct	make	78	None	None	None	None	None	None	None	None	None
 
-#sentence 8
+[Sentence 8]
 81	She	she	PRON	PRP	nsubj	like	84	pp_all	pp3	None	None	None	None	None	None	None
 82	does	do	AUX	VBZ	aux	like	84	None	None	None	None	None	None	None	None	None
 83	n't	not	PART	RB	neg	like	84	None	None	None	None	contraction	None	None	None	None
@@ -113,7 +113,7 @@
 93	skin	skin	NOUN	NN	pobj	for	92	nn_all	None	None	None	None	None	None	None	None
 94	.	.	PUNCT	.	punct	like	84	None	None	None	None	None	None	None	None	None
 
-#sentence 9
+[Sentence 9]
 95	and	and	CCONJ	CC	cc	make	99	None	cc_clause	None	None	None	None	None	None	None
 96	she	she	PRON	PRP	nsubj	make	99	pp_all	pp3	None	None	None	None	None	None	None
 97	ca	can	AUX	MD	aux	make	99	None	None	None	None	None	None	None	None	None
@@ -136,7 +136,7 @@
 114	it	it	PRON	PRP	dobj	need	113	pp_all	pp3_it	None	None	None	None	None	None	None
 115	.	.	PUNCT	.	punct	think	108	None	None	None	None	None	None	None	None	None
 
-#sentence 10
+[Sentence 10]
 116	Maybe	maybe	ADV	RB	advmod	is	118	None	hedges_adverb	None	None	None	None	None	None	None
 117	she	she	PRON	PRP	nsubj	is	118	pp_all	pp3	None	None	None	None	None	None	None
 118	is	be	AUX	VBZ	ROOT	is	118	None	None	be_mv	None	None	None	None	None	None
@@ -146,7 +146,7 @@
 122	too	too	ADV	RB	advmod	is	118	None	None	None	None	None	None	None	None	None
 123	.	.	PUNCT	.	punct	is	118	None	None	None	None	None	None	None	None	None
 
-#sentence 11
+[Sentence 11]
 124	Anyway	anyway	INTJ	UH	intj	make	126	None	discourse_particle	None	None	None	None	None	None	None
 125	Nobody	nobody	PRON	NN	nsubj	make	126	None	pp_indefinite	None	None	None	None	None	None	None
 126	make	make	VERB	VBP	ROOT	make	126	verb	non_past_tense	None	None	None	None	None	None	None

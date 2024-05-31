@@ -28,12 +28,12 @@ def sample_data_analysis(output_dir):
         # Analyze a sample text
         sample_text = "They said she liked hamburgers. They also said that he didn't."
         sample_try = lgr.LGR_Analysis(sample_text)
-
+        print("\n[SAMPLE TRY]")
         # Display simple POS-specific lemmatized text
-        logger.info(sample_try["lemma_text"])
+        print("\n[Lemmatized Text]\n", sample_try["lemma_text"])
 
         # Display count for "nn_all" category (all nouns)
-        logger.info(sample_try["nn_all"])
+        print("\n[Category 'nn_all' count]\n", sample_try["nn_all"])
 
         # Pretty-print tags
         lgr.print_vertical(sample_try["tagged_text"])

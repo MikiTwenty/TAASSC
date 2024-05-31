@@ -1,6 +1,6 @@
 
 
-#sentence 0
+[Sentence 0]
 0	Dear	dear	ADJ	JJ	amod	Parents	1	None	jj_attributive	None	None	None	None	None	None	None
 1	Parents	parent	NOUN	NNS	npadvmod	
 	3	nn_all	None	None	None	None	None	None	nn_animate	None
@@ -20,7 +20,7 @@
 13	children	child	NOUN	NNS	pobj	to	11	nn_all	None	None	None	None	None	None	nn_animate	None
 14	.	.	PUNCT	.	punct	give	6	None	None	None	None	None	None	None	None	None
 
-#sentence 1
+[Sentence 1]
 15	It	it	PRON	PRP	nsubj	wearing	18	pp_all	pp3_it	None	None	None	None	None	None	None
 16	is	be	AUX	VBZ	aux	wearing	18	None	None	None	None	None	None	None	None	None
 17	not	not	PART	RB	neg	wearing	18	None	None	None	None	None	None	None	None	None
@@ -40,7 +40,7 @@
 31	school	school	NOUN	NN	pobj	in	28	nn_all	None	None	None	None	None	None	nn_group	None
 32	.	.	PUNCT	.	punct	wearing	18	None	None	None	None	None	None	None	None	None
 
-#sentence 2
+[Sentence 2]
 33	Second	second	ADJ	JJ	advmod	need	39	None	None	None	None	None	None	None	None	None
 34	,	,	PUNCT	,	punct	need	39	None	None	None	None	None	None	None	None	None
 35	your	your	PRON	PRP$	poss	children	36	pp_all	pp2	None	None	None	None	None	None	None
@@ -54,7 +54,7 @@
 43	class	class	NOUN	NN	pobj	in	41	nn_all	None	None	None	None	None	None	nn_place	None
 44	.	.	PUNCT	.	punct	need	39	None	None	None	None	None	None	None	None	None
 
-#sentence 3
+[Sentence 3]
 45	As	as	SCONJ	IN	mark	see	50	None	None	None	adverbial_subordinator_other	None	None	None	None	None
 46	their	their	PRON	PRP$	poss	eyes	47	pp_all	pp3	None	None	None	None	None	None	None
 47	eyes	eye	NOUN	NNS	nsubj	see	50	nn_all	None	None	None	None	None	None	nn_concrete	None
@@ -72,7 +72,7 @@
 59	mind	mind	NOUN	NN	dobj	read	57	nn_all	None	None	None	None	None	None	None	None
 60	.	.	PUNCT	.	punct	read	57	None	None	None	None	None	None	None	None	None
 
-#sentence 4
+[Sentence 4]
 61	These	these	DET	DT	det	codes	64	None	None	None	None	None	None	None	None	None
 62	new	new	ADJ	JJ	amod	codes	64	None	jj_attributive	None	None	None	None	None	None	None
 63	dress	dress	NOUN	NN	compound	codes	64	nn_all	None	None	None	None	None	None	None	None
@@ -106,7 +106,7 @@
 91	life	life	NOUN	NN	pobj	about	87	nn_all	None	None	None	None	None	None	nn_abstract	None
 92	.	.	PUNCT	.	punct	get	66	None	None	None	None	None	None	None	None	None
 
-#sentence 5
+[Sentence 5]
 93	Also	also	ADV	RB	advmod	choose	97	None	None	None	None	None	None	None	None	None
 94	,	,	PUNCT	,	punct	choose	97	None	None	None	None	None	None	None	None	None
 95	children	child	NOUN	NNS	nsubj	choose	97	nn_all	None	None	None	None	None	None	nn_animate	None
@@ -130,7 +130,7 @@
 113	life	life	NOUN	NN	pobj	in	111	nn_all	None	None	None	None	None	None	nn_abstract	None
 114	.	.	PUNCT	.	punct	choose	97	None	None	None	None	None	None	None	None	None
 
-#sentence 6
+[Sentence 6]
 115	But	but	CCONJ	CC	cc	have	117	None	None	None	None	None	None	None	None	None
 116	their	their	PRON	PRP$	nsubj	have	117	pp_all	pp3	None	None	None	None	None	None	None
 117	have	have	VERB	VBP	ROOT	have	117	verb	non_past_tense	None	None	None	None	None	None	None
@@ -143,13 +143,13 @@
 124	class	class	NOUN	NN	pobj	in	122	nn_all	None	None	None	None	None	None	nn_place	None
 125	.	.	PUNCT	.	punct	have	117	None	None	None	None	None	None	None	None	None
 
-#sentence 7
+[Sentence 7]
 126	
 	
 	SPACE	_SP	dep	
 	126	None	None	None	None	None	None	None	None	None
 
-#sentence 8
+[Sentence 8]
 127	Thanks	thank	NOUN	NNS	ROOT	Thanks	127	nn_all	None	None	None	None	None	None	None	None
 128	,	,	PUNCT	,	punct	Thanks	127	None	None	None	None	None	None	None	None	None
 129	

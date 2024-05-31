@@ -1,6 +1,6 @@
 
 
-#sentence 0
+[Sentence 0]
 0	As	as	SCONJ	IN	mark	sit	2	None	None	None	adverbial_subordinator_other	None	None	None	None	None
 1	I	i	PRON	PRP	nsubj	sit	2	pp_all	pp1	None	None	None	None	None	None	None
 2	sit	sit	VERB	VBP	advcl	replace	13	verb	non_past_tense	None	None	None	None	None	activity_verb	None
@@ -22,7 +22,7 @@
 18	mind	mind	NOUN	NN	pobj	in	16	nn_all	None	None	None	None	None	None	None	None
 19	.	.	PUNCT	.	punct	replace	13	None	None	None	None	None	None	None	None	None
 
-#sentence 1
+[Sentence 1]
 20	Highly	highly	ADV	RB	advmod	diverse	21	None	amplifiers_adverb	None	None	None	None	None	None	None
 21	diverse	diverse	ADJ	JJ	amod	emotions	22	None	jj_attributive	None	None	None	None	None	None	None
 22	emotions	emotion	NOUN	NNS	nsubj	fight	23	nn_all	nominalization	None	None	None	None	None	nn_cognitive	None
@@ -33,7 +33,7 @@
 27	expression	expression	NOUN	NN	pobj	for	26	nn_all	None	None	None	None	None	None	nn_abstract	None
 28	.	.	PUNCT	.	punct	fight	23	None	None	None	None	None	None	None	None	None
 
-#sentence 2
+[Sentence 2]
 29	So	so	SCONJ	IN	dep	am	32	None	None	None	None	None	None	None	None	None
 30	here	here	ADV	RB	advmod	am	32	None	place_adverbials	None	None	None	None	None	None	None
 31	I	i	PRON	PRP	nsubj	am	32	pp_all	pp1	None	None	None	None	None	None	None
@@ -46,7 +46,7 @@
 38	emotions	emotion	NOUN	NNS	pobj	of	36	nn_all	nominalization	None	None	None	None	None	nn_cognitive	None
 39	.	.	PUNCT	.	punct	am	32	None	None	None	None	None	None	None	None	None
 
-#sentence 3
+[Sentence 3]
 40	Some	some	PRON	DT	nsubj	express	43	None	None	None	None	None	None	None	None	None
 41	of	of	ADP	IN	prep	Some	40	prep_phrase	None	None	None	None	None	None	None	None
 42	them	they	PRON	PRP	pobj	of	41	pp_all	pp3	None	None	None	None	None	None	None
@@ -72,7 +72,7 @@
 62	etc	etc	X	FW	dobj	express	59	None	None	None	None	None	None	None	None	None
 63	.	.	PUNCT	.	punct	express	59	None	None	None	None	None	None	None	None	None
 
-#sentence 4
+[Sentence 4]
 64	The	the	DET	DT	det	thought	66	None	None	None	None	None	None	None	None	None
 65	first	first	ADJ	JJ	amod	thought	66	None	jj_attributive	None	None	None	None	None	None	None
 66	thought	thought	NOUN	NN	nsubj	concerns	71	nn_all	None	None	None	None	None	None	None	None
@@ -95,7 +95,7 @@
 83	it	it	PRON	PRP	dobj	do	82	pp_all	pp3_it	None	None	None	None	None	None	None
 84	?	?	PUNCT	.	punct	need	80	None	None	None	None	None	None	None	None	None
 
-#sentence 5
+[Sentence 5]
 85	That	that	DET	DT	det	thought	87	None	None	None	None	None	None	None	None	None
 86	very	very	ADJ	JJ	amod	thought	87	None	jj_attributive	None	None	None	None	None	None	None
 87	thought	thought	NOUN	NN	nsubjpass	replaced	89	nn_all	None	None	None	None	None	None	None	None
@@ -114,7 +114,7 @@
 100	everything	everything	PRON	NN	pobj	for	99	None	pp_indefinite	None	None	None	None	None	None	None
 101	.	.	PUNCT	.	punct	replaced	89	None	None	None	None	None	None	None	None	None
 
-#sentence 6
+[Sentence 6]
 102	Of	of	ADV	RB	advmod	course	103	None	None	None	None	None	None	None	None	None
 103	course	course	ADV	RB	advmod	is	107	None	None	None	None	None	None	None	None	None
 104	,	,	PUNCT	,	punct	is	107	None	None	None	None	None	None	None	None	None
@@ -166,7 +166,7 @@
 150	come	come	VERB	VB	relcl	emotions	147	verb	non_past_tense	None	None	to_clause	None	None	activity_verb	None
 151	.	.	PUNCT	.	punct	continues	126	None	None	None	None	None	None	None	None	None
 
-#sentence 7
+[Sentence 7]
 152	This	this	PRON	DT	nsubj	seems	153	None	pp_demonstrative	None	None	None	None	None	None	None
 153	seems	seem	VERB	VBZ	ROOT	seems	153	verb	non_past_tense	None	None	None	None	None	existence_verb	None
 154	like	like	ADP	IN	prep	seems	153	prep_phrase	None	None	None	None	None	None	None	None

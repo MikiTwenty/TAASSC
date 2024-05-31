@@ -1,6 +1,6 @@
 
 
-#sentence 0
+[Sentence 0]
 0	I	i	PRON	PRP	nsubj	have	1	pp_all	pp1	None	None	None	None	None	None	None
 1	have	have	VERB	VBP	ccomp	spend	26	verb	non_past_tense	None	None	None	None	None	None	None
 2	an	an	DET	DT	det	eagle	3	None	None	None	None	None	None	None	None	None
@@ -41,7 +41,7 @@
 37	up	up	ADP	RP	prt	get	36	None	None	None	None	None	None	None	None	None
 38	.	.	PUNCT	.	punct	spend	26	None	None	None	None	None	None	None	None	None
 
-#sentence 1
+[Sentence 1]
 39	I	i	PRON	PRP	nsubj	go	40	pp_all	pp1	None	None	None	None	None	None	None
 40	go	go	VERB	VBP	ROOT	go	40	verb	non_past_tense	None	None	None	None	None	activity_verb	None
 41	with	with	ADP	IN	prep	go	40	prep_phrase	None	None	None	None	None	None	None	None
@@ -61,7 +61,7 @@
 55	him	he	PRON	PRP	pobj	for	54	pp_all	pp3	None	None	None	None	None	None	None
 56	.	.	PUNCT	.	punct	go	40	None	None	None	None	None	None	None	None	None
 
-#sentence 2
+[Sentence 2]
 57	I	i	PRON	PRP	nsubj	love	58	pp_all	pp1	None	None	None	None	None	None	None
 58	love	love	VERB	VBP	ROOT	love	58	verb	non_past_tense	None	None	None	None	None	mental_verb	None
 59	my	my	PRON	PRP$	poss	eagle	60	pp_all	pp1	None	None	None	None	None	None	None
@@ -76,7 +76,7 @@
 68	also	also	ADV	RB	advmod	is	67	None	None	None	None	None	None	None	None	None
 69	.	.	PUNCT	.	punct	think	65	None	None	None	None	None	None	None	None	None
 
-#sentence 3
+[Sentence 3]
 70	I	i	PRON	PRP	nsubj	miss	71	pp_all	pp1	None	None	None	None	None	None	None
 71	miss	miss	VERB	VBP	ROOT	miss	71	verb	non_past_tense	None	None	None	None	None	mental_verb	None
 72	him	he	PRON	PRP	dobj	miss	71	pp_all	pp3	None	None	None	None	None	None	None
@@ -91,7 +91,7 @@
 81	me	i	PRON	PRP	pobj	with	80	pp_all	pp1	None	None	None	None	None	None	None
 82	.	.	PUNCT	.	punct	miss	71	None	None	None	None	None	None	None	None	None
 
-#sentence 4
+[Sentence 4]
 83	Also	also	ADV	RB	advmod	sleep	88	None	None	None	None	None	None	None	None	None
 84	at	at	ADP	IN	prep	sleep	88	prep_phrase	None	None	None	None	None	None	None	None
 85	the	the	DET	DT	det	night	86	None	None	None	None	None	None	None	None	None
@@ -103,7 +103,7 @@
 91	room	room	NOUN	NN	pobj	in	89	nn_all	None	None	None	None	None	None	nn_place	None
 92	.	.	PUNCT	.	punct	sleep	88	None	None	None	None	None	None	None	None	None
 
-#sentence 5
+[Sentence 5]
 93	When	when	SCONJ	WRB	advmod	get	96	None	None	None	None	None	None	None	None	None
 94	I	i	PRON	PRP	nsubj	get	96	pp_all	pp1	None	None	None	None	None	None	None
 95	just	just	ADV	RB	advmod	get	96	None	emphatics	None	None	None	None	None	None	None
@@ -127,7 +127,7 @@
 113	morning	morning	NOUN	NN	dobj	say	111	nn_all	None	None	None	None	None	None	nn_quantity	None
 114	.	.	PUNCT	.	punct	saw	102	None	None	None	None	None	None	None	None	None
 
-#sentence 6
+[Sentence 6]
 115	and	and	CCONJ	CC	cc	know	117	None	cc_clause	None	None	None	None	None	None	None
 116	I	i	PRON	PRP	nsubj	know	117	pp_all	pp1	None	None	None	None	None	None	None
 117	know	know	VERB	VBP	ROOT	know	117	verb	non_past_tense	None	None	None	None	None	mental_verb	None
@@ -147,7 +147,7 @@
 131	face	face	NOUN	NN	pobj	in	129	nn_all	None	None	None	None	None	None	nn_concrete	None
 132	.	.	PUNCT	.	punct	know	117	None	None	None	None	None	None	None	None	None
 
-#sentence 7
+[Sentence 7]
 133	I	i	PRON	PRP	nsubj	hunt	134	pp_all	pp1	None	None	None	None	None	None	None
 134	hunt	hunt	VERB	VBP	ROOT	hunt	134	verb	non_past_tense	None	None	None	None	None	None	None
 135	birds	bird	NOUN	NNS	dobj	hunt	134	nn_all	None	None	None	None	None	None	nn_animate	None

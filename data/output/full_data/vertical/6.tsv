@@ -1,6 +1,6 @@
 
 
-#sentence 0
+[Sentence 0]
 0	Keller	keller	PROPN	NNP	nsubj	experienced	2	nn_all	nominalization	None	None	None	None	None	None	None
 1	has	have	AUX	VBZ	aux	experienced	2	None	None	None	None	None	None	None	None	None
 2	experienced	experience	VERB	VBN	ROOT	experienced	2	verb	perfect_aspect	None	None	None	None	None	mental_verb	None
@@ -14,7 +14,7 @@
 10	learning	learning	NOUN	NN	pobj	about	7	nn_all	nominalization	None	None	None	None	None	None	None
 11	.	.	PUNCT	.	punct	experienced	2	None	None	None	None	None	None	None	None	None
 
-#sentence 1
+[Sentence 1]
 12	I	i	PRON	PRP	nsubj	say	14	pp_all	pp1	None	None	None	None	None	None	None
 13	can	can	AUX	MD	aux	say	14	None	None	None	None	None	None	None	None	None
 14	say	say	VERB	VB	ROOT	say	14	verb	non_past_tense	None	None	None	None	None	communication_verb	None
@@ -35,7 +35,7 @@
 29	complete	complete	ADJ	JJ	acomp	are	28	None	jj_predicative	None	None	None	None	None	None	None
 30	.	.	PUNCT	.	punct	say	14	None	None	None	None	None	None	None	None	None
 
-#sentence 2
+[Sentence 2]
 31	By	by	ADP	IN	prep	lose	36	prep_phrase	None	None	None	None	None	None	None	None
 32	accident	accident	NOUN	NN	pobj	By	31	nn_all	None	None	None	None	None	None	None	None
 33	,	,	PUNCT	,	punct	lose	36	None	None	None	None	None	None	None	None	None
@@ -55,7 +55,7 @@
 47	society	society	NOUN	NN	pobj	in	45	nn_all	None	None	None	None	None	None	None	None
 48	.	.	PUNCT	.	punct	lose	36	None	None	None	None	None	None	None	None	None
 
-#sentence 3
+[Sentence 3]
 49	However	however	ADV	RB	advmod	is	55	None	conjuncts_adverb	None	None	None	None	None	None	None
 50	,	,	PUNCT	,	punct	is	55	None	None	None	None	None	None	None	None	None
 51	the	the	DET	DT	det	thing	54	None	None	None	None	None	None	None	None	None
@@ -80,7 +80,7 @@
 70	hear	hear	NOUN	NN	conj	sight	67	nn_all	None	None	None	None	None	None	None	None
 71	.	.	PUNCT	.	punct	is	55	None	None	None	None	None	None	None	None	None
 
-#sentence 4
+[Sentence 4]
 72	I	i	PRON	PRP	nsubj	say	74	pp_all	pp1	None	None	None	None	None	None	None
 73	will	will	AUX	MD	aux	say	74	None	None	None	None	None	None	None	None	None
 74	say	say	VERB	VB	ROOT	say	74	verb	non_past_tense	None	None	None	None	None	communication_verb	None
@@ -104,7 +104,7 @@
 92	memoir	memoir	NOUN	NN	attr	is	91	nn_all	None	None	None	None	None	None	None	None
 93	.	.	PUNCT	.	punct	say	74	None	None	None	None	None	None	None	None	None
 
-#sentence 5
+[Sentence 5]
 94	If	if	SCONJ	IN	mark	ask	97	None	None	None	adverbial_subordinator_conditional	None	None	None	None	None
 95	I	i	PRON	PRP	nsubj	ask	97	pp_all	pp1	None	None	None	None	None	None	None
 96	was	be	AUX	VBD	aux	ask	97	None	None	None	None	None	None	None	None	None
@@ -134,7 +134,7 @@
 120	that	that	PRON	DT	pobj	about	119	None	pp_demonstrative	None	None	None	None	None	None	None
 121	.	.	PUNCT	.	punct	have	116	None	None	None	None	None	None	None	None	None
 
-#sentence 6
+[Sentence 6]
 122	She	she	PRON	PRP	nsubj	have	125	pp_all	pp3	None	None	None	None	None	None	None
 123	did	do	AUX	VBD	aux	have	125	None	None	None	None	None	None	None	None	None
 124	n't	not	PART	RB	neg	have	125	None	None	None	None	contraction	None	None	None	None

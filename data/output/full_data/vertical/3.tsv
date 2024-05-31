@@ -1,6 +1,6 @@
 
 
-#sentence 0
+[Sentence 0]
 0	My	my	PRON	PRP$	poss	name	2	pp_all	pp1	None	None	None	None	None	None	None
 1	family	family	NOUN	NN	compound	name	2	nn_all	None	None	None	None	None	None	nn_animate	None
 2	name	name	NOUN	NN	nsubj	is	3	nn_all	None	None	None	None	None	None	nn_abstract	None
@@ -9,7 +9,7 @@
 5	Rashod	rashod	PROPN	NNP	attr	is	3	nn_all	None	None	None	None	None	None	None	None
 6	.	.	PUNCT	.	punct	is	3	None	None	None	None	None	None	None	None	None
 
-#sentence 1
+[Sentence 1]
 7	It	it	PRON	PRP	nsubj	's	8	pp_all	pp3_it	None	None	None	None	None	None	None
 8	's	be	AUX	VBZ	ROOT	's	8	None	None	be_mv	None	contraction	None	None	None	None
 9	a	a	DET	DT	det	family	11	None	None	None	None	None	None	None	None	None
@@ -17,7 +17,7 @@
 11	family	family	NOUN	NN	attr	's	8	nn_all	None	None	None	None	None	None	nn_animate	None
 12	.	.	PUNCT	.	punct	's	8	None	None	None	None	None	None	None	None	None
 
-#sentence 2
+[Sentence 2]
 13	They	they	PRON	PRP	nsubj	lives	14	pp_all	pp3	None	None	None	None	None	None	None
 14	lives	live	VERB	VBZ	ROOT	lives	14	verb	non_past_tense	None	None	None	None	None	existence_verb	None
 15	in	in	ADP	IN	prep	lives	14	prep_phrase	None	None	None	None	None	None	None	None
@@ -27,7 +27,7 @@
 19	's	's	PART	POS	case	Emirate	18	None	None	None	None	None	None	None	None	None
 20	.	.	PUNCT	.	punct	lives	14	None	None	None	None	None	None	None	None	None
 
-#sentence 3
+[Sentence 3]
 21	But	but	CCONJ	CC	cc	lives	24	None	None	None	None	None	None	None	None	None
 22	my	my	PRON	PRP$	poss	father	23	pp_all	pp1	None	None	None	None	None	None	None
 23	father	father	NOUN	NN	nsubj	lives	24	nn_all	None	None	None	None	None	None	nn_animate	None
@@ -39,7 +39,7 @@
 29	America	america	PROPN	NNP	pobj	of	28	nn_all	None	None	None	None	None	None	None	None
 30	.	.	PUNCT	.	punct	lives	24	None	None	None	None	None	None	None	None	None
 
-#sentence 4
+[Sentence 4]
 31	He	he	PRON	PRP	nsubj	working	33	pp_all	pp3	None	None	None	None	None	None	None
 32	is	be	AUX	VBZ	aux	working	33	None	None	None	None	None	None	None	None	None
 33	working	work	VERB	VBG	ROOT	working	33	verb	None	None	None	None	None	None	activity_verb	None
@@ -47,7 +47,7 @@
 35	their	their	PRON	PRP$	pobj	in	34	pp_all	pp3	None	None	None	None	None	None	None
 36	.	.	PUNCT	.	punct	working	33	None	None	None	None	None	None	None	None	None
 
-#sentence 5
+[Sentence 5]
 37	He	he	PRON	PRP	nsubj	works	38	pp_all	pp3	None	None	None	None	None	None	None
 38	works	work	VERB	VBZ	ROOT	works	38	verb	non_past_tense	None	None	None	None	None	activity_verb	None
 39	in	in	ADP	IN	prep	works	38	prep_phrase	None	None	None	None	None	None	None	None
@@ -62,7 +62,7 @@
 48	America	america	PROPN	NNP	pobj	of	47	nn_all	None	None	None	None	None	None	None	None
 49	.	.	PUNCT	.	punct	works	38	None	None	None	None	None	None	None	None	None
 
-#sentence 6
+[Sentence 6]
 50	My	my	PRON	PRP$	poss	mother	51	pp_all	pp1	None	None	None	None	None	None	None
 51	mother	mother	NOUN	NN	nsubj	works	52	nn_all	None	None	None	None	None	None	nn_animate	None
 52	works	work	VERB	VBZ	ROOT	works	52	verb	non_past_tense	None	None	None	None	None	activity_verb	None
@@ -71,7 +71,7 @@
 55	school	school	NOUN	NN	pobj	in	53	nn_all	None	None	None	None	None	None	nn_group	None
 56	.	.	PUNCT	.	punct	works	52	None	None	None	None	None	None	None	None	None
 
-#sentence 7
+[Sentence 7]
 57	She	she	PRON	PRP	nsubj	is	58	pp_all	pp3	None	None	None	None	None	None	None
 58	is	be	AUX	VBZ	ROOT	is	58	None	None	be_mv	None	None	None	None	None	None
 59	an	an	DET	DT	det	teacher	61	None	None	None	None	None	None	None	None	None
@@ -79,7 +79,7 @@
 61	teacher	teacher	NOUN	NN	attr	is	58	nn_all	nominalization	None	None	None	None	None	nn_animate	None
 62	.	.	PUNCT	.	punct	is	58	None	None	None	None	None	None	None	None	None
 
-#sentence 8
+[Sentence 8]
 63	My	my	PRON	PRP$	poss	brother	64	pp_all	pp1	None	None	None	None	None	None	None
 64	brother	brother	NOUN	NN	nsubj	works	66	nn_all	None	None	None	None	None	None	nn_animate	None
 65	saif	saif	PROPN	NNP	appos	brother	64	nn_all	None	None	None	None	None	None	None	None
@@ -107,7 +107,7 @@
 87	all	all	ADV	RB	advmod	playing	82	None	None	None	None	None	None	None	None	None
 88	.	.	PUNCT	.	punct	love	81	None	None	None	None	None	None	None	None	None
 
-#sentence 9
+[Sentence 9]
 89	He	he	PRON	PRP	nsubj	like	92	pp_all	pp3	None	None	None	None	None	None	None
 90	did	do	AUX	VBD	aux	like	92	None	None	None	None	None	None	None	None	None
 91	n't	not	PART	RB	neg	like	92	None	None	None	None	contraction	None	None	None	None
@@ -117,7 +117,7 @@
 95	school	school	NOUN	NN	attr	is	94	nn_all	None	None	None	None	None	None	nn_group	None
 96	.	.	PUNCT	.	punct	like	92	None	None	None	None	None	None	None	None	None
 
-#sentence 10
+[Sentence 10]
 97	He	he	PRON	PRP	nsubj	is	98	pp_all	pp3	None	None	None	None	None	None	None
 98	is	be	AUX	VBZ	ROOT	is	98	None	None	be_mv	None	None	None	None	None	None
 99	lazy	lazy	ADJ	JJ	amod	boy	100	None	jj_attributive	None	None	None	None	None	None	None
@@ -126,7 +126,7 @@
 102	house	house	NOUN	NN	pobj	in	101	nn_all	None	None	None	None	None	None	nn_group	None
 103	.	.	PUNCT	.	punct	is	98	None	None	None	None	None	None	None	None	None
 
-#sentence 11
+[Sentence 11]
 104	My	my	PRON	PRP$	poss	father	106	pp_all	pp1	None	None	None	None	None	None	None
 105	grand	grand	ADJ	JJ	amod	father	106	None	jj_attributive	None	None	None	None	None	None	None
 106	father	father	NOUN	NN	nsubj	work	109	nn_all	None	None	None	None	None	None	nn_animate	None
@@ -135,7 +135,7 @@
 109	work	work	VERB	VB	ROOT	work	109	verb	non_past_tense	None	None	None	None	None	activity_verb	None
 110	.	.	PUNCT	.	punct	work	109	None	None	None	None	None	None	None	None	None
 
-#sentence 12
+[Sentence 12]
 111	He	he	PRON	PRP	nsubj	stay	113	pp_all	pp3	None	None	None	None	None	None	None
 112	is	be	AUX	VBZ	aux	stay	113	None	None	None	None	None	None	None	None	None
 113	stay	stay	VERB	VB	ROOT	stay	113	verb	non_past_tense	None	None	None	None	None	existence_verb	None

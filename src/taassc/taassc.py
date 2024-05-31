@@ -987,7 +987,7 @@ def output_vertical(
         for sent_id, sent in enumerate(list_text):
             if not sent:
                 continue
-            outf.write(f"\n\n#sentence {sent_id}")
+            outf.write(f"\n\n[Sentence {sent_id}]")
             if pretty_print:
                 print("\n\n")
             for token in sent:
@@ -1011,7 +1011,7 @@ def print_vertical(
 
     for sent_id, sent in enumerate(list_text):
         if not sent: continue
-        print(f"\n\n#sentence {sent_id}")
+        print(f"\n\n[Sentence {sent_id}]")
         for token in sent:
             out_list = [str(token.get(attr, "n/a")) for attr in ordered_output]
             print("\n" + "\t".join(out_list))
