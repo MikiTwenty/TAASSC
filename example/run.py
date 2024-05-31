@@ -63,7 +63,7 @@ def full_data_analysis(folder, output_base_dir):
         csv_output_path = os.path.join(output_base_dir, "results.csv")
 
         # Perform full analysis and save results
-        logger.info(f"Starting full analysis on {len(file_list)} files.")
+        logger.info(f"Starting full analysis on {len(file_list)} files...")
         lgr.LGR_Full(file_list, csv_output_path, output=["xml", "vertical"], outdirname=output_base_dir)
 
         logger.info(f"Analysis complete.")
